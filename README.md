@@ -26,3 +26,9 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 
 additional packages that are needed:
 lodash (npm install --save lodash)
+
+Things you would learn:
+1. diff between clas-based (state) component and functional component (simple, some properties, static jsx, light weight);
+2. state: this.state, this.setState;
+3. import export statements
+4. callbacks functions

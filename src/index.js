@@ -39,6 +39,7 @@ class App extends Component {
 
 		return (
 			// onSearchTermChange is a property of SearchBar
+			// App is parent component and SearchBar, VideoList are child components
 			<div>		
 				<SearchBar onSearchTermChange={videoSearch} /> 
 				<VideoDetail video={this.state.selectedVideo} />
